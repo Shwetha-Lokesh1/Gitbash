@@ -1,0 +1,5 @@
+#COMMONDATA
+#Fri Nov 03 23:52:35 PDT 2023
+password=secret_sauce
+url=https\://www.saucedemo.com/
+username=standard_user
